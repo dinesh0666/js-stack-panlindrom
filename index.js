@@ -2,6 +2,8 @@
 
 // functions: push, pop, peek, length
 
+//understanding stack with Array 
+
 var letters = []; // this is our stack
 
 var word = "racecar"
