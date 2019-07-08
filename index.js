@@ -54,11 +54,11 @@ var stack = function(value){
         delete this.storage[this.count];
         return result;
     }
+}
 
-var myStack = new Stack();
+var myStack = new stack();
 
 myStack.push(1);
-myStack.push(2);
+myStack.push(12);
+myStack.push(14);
 console.log(myStack.peek());
-
-}
