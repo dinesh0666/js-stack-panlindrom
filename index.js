@@ -6,7 +6,7 @@
 
 var letters = []; // this is our stack
 
-var word = "racecar"
+var word = "MOM"
 
 var rword = "";
 
