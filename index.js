@@ -64,4 +64,3 @@ myStack.push(14);
 console.log(myStack.peek());
 myStack.pop(14);
 console.log(myStack.peek());
-
